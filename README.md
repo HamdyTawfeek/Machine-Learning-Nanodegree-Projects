@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree Projects
 
-This repository contains my project for [Udacity's Machine Learning Engineer Nanodegree program](https://eg.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
+This repository contains my projects for [Udacity's Machine Learning Engineer Nanodegree program](https://eg.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
 
 ## Syllabus
 ---
