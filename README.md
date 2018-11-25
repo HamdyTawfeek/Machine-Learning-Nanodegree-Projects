@@ -20,7 +20,7 @@ This repository contains project files for Udacity's Machine Learning Engineer N
 
 ### Part 4: Deep learning
 
-*Project : Dog breeds classifiaction*
+*Project : Dog Breeds App*
 
 ### Part 5: Unsupervised Learning
 
