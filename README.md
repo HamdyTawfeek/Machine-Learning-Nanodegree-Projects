@@ -6,7 +6,7 @@ This repository contains project files for Udacity's Machine Learning Engineer N
 ---
 
 
-### Part1: Introduction
+### Part 1: Introduction
 
 *Project :Titanic Survival Exploration*
 
