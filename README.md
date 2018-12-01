@@ -8,28 +8,28 @@ This repository contains my projects for [Udacity's Machine Learning Engineer Na
 
 ### Part 1: Introduction
 
-*Project: Titanic Survival Exploration*
+**Project: Titanic Survival Exploration**
 
 ### Part 2: Model Evaluation and Validation
 
-*Project: Predicting Boston Housing Prices*
+**Project: Predicting Boston Housing Prices**
 
 ### Part 3: Supervised Learning
 
-*Project: Finding Donors for CharityML*
+**Project: Finding Donors for CharityML**
 
 ### Part 4: Deep learning
 
-*Project: Dog Breeds App*
+**Project: Dog Breeds App**
 
 ### Part 5: Unsupervised Learning
 
-***Project: Customer Segments*** <br/>
+**Project: Customer Segments** <br/>
 *Mini Project 1: Simplistic Recommendation Engine*<br/>
 *Mini Project 2:  Facial Recognition with PCA*
 
 ### Part 6: Reinforcement Learning
 
-*Project: Teach a Quadcopter How to Fly*
+**Project: Teach a Quadcopter How to Fly**
 
 ### Part 7: Machine Learning Capstone
