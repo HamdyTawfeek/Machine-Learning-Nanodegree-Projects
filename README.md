@@ -30,6 +30,6 @@ This repository contains my projects for [Udacity's Machine Learning Engineer Na
 
 ### Part 6: Reinforcement Learning
 
-<span style="color:blue">**Project: Teach a Quadcopter How to Fly** </span> <br/>
+<span style="color:blue">Project: Teach a Quadcopter How to Fly</span> <br/>
 
 ### Part 7: Machine Learning Capstone
