@@ -24,7 +24,7 @@ This repository contains my projects for [Udacity's Machine Learning Engineer Na
 
 ### Part 5: Unsupervised Learning
 
-*Project: Customer Segments*\ 
+*Project: Customer Segments* <br/>
 *Mini Project 1: Simplistic Recommendation Engine*
 
 ### Part 6: Reinforcement Learning
