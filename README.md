@@ -2,34 +2,34 @@
 
 This repository contains my projects for [Udacity's Machine Learning Engineer Nanodegree program](https://eg.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
 
-## Syllabus
+# Syllabus
 ---
 
 
-### Part 1: Introduction
+## Part 1: Introduction
 
-<span style="color:blue">**Project: Titanic Survival Exploration**</span><br/>
+**Project: Titanic Survival Exploration** <br/>
 
-### Part 2: Model Evaluation and Validation
+## Part 2: Model Evaluation and Validation
 
-<span style="color:blue">**Project: Predicting Boston Housing Prices** </span><br/>
+**Project: Predicting Boston Housing Prices** <br/>
 
-### Part 3: Supervised Learning
+## Part 3: Supervised Learning
 
-<span style="color:blue">**Project: Finding Donors for CharityML** </span><br/>
+**Project: Finding Donors for CharityML** <br/>
 
-### Part 4: Deep learning
+## Part 4: Deep learning
 
-<span style="color:blue">**Project: Dog Breeds App** </span><br/>
+**Project: Dog Breeds App** <br/>
 
-### Part 5: Unsupervised Learning
+## Part 5: Unsupervised Learning
 
-<span style="color:blue">**Project: Customer Segments**  </span> <br/>
+**Project: Customer Segments** <br/>
 *Mini Project 1: Simplistic Recommendation Engine*<br/>
 *Mini Project 2:  Facial Recognition with PCA*
 
-### Part 6: Reinforcement Learning
+## Part 6: Reinforcement Learning
 
-<span style="color:blue">Project: Teach a Quadcopter How to Fly</span> <br/>
+**Project: Teach a Quadcopter How to Fly** <br/>
 
-### Part 7: Machine Learning Capstone
+## Part 7: Machine Learning Capstone
