@@ -25,8 +25,9 @@ This repository contains my projects for [Udacity's Machine Learning Engineer Na
 ## Part 5: Unsupervised Learning
 
 **Project: Customer Segments** <br/>
-*Mini Project 1: Simplistic Recommendation Engine*<br/>
-*Mini Project 2:  Facial Recognition with PCA*
+*Mini Project 1: k-means Clustering of Movie Ratings*<br/>
+*Mini Project 2: Simplistic Recommendation Engine*<br/>
+*Mini Project 3:  Facial Recognition with PCA*
 
 ## Part 6: Reinforcement Learning
 
